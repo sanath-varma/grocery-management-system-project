@@ -1,0 +1,14 @@
+		 Welcome to smart Bazar		
+ Bill Number:4499
+ Customer Name:sanath
+ Phone Number:9398462583
+ Customer Email:sanath@gmail.com
+==================================================
+ 	Products		Qty		Price
+==================================================levis		2		12000
+
+==================================================
+ Sub Amount:			Rs.24000.00
+ Tax Amount:			Rs.180.00
+ Total Amount:			Rs.420.00
+==================================================

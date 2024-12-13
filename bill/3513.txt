@@ -1,0 +1,15 @@
+		 Welcome to smart Bazar		
+ Bill Number:3513
+ Customer Name:rishy
+ Phone Number:398462583
+ Customer Email:rishy@001
+==================================================
+ 	Products		Qty		Price
+==================================================Jack&Jones		2		1800
+levis		1		6000
+
+==================================================
+ Sub Amount:			Rs.7800.00
+ Tax Amount:			Rs.18.00
+ Total Amount:			Rs.96.00
+==================================================
